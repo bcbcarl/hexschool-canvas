@@ -1,6 +1,6 @@
 # hexschool-canvas
 
-Open `index.html` in you web browser.
+Open `index.html` in your web browser.
 
 ## Reference
 
